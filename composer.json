@@ -1,0 +1,7 @@
+{
+  "name": "altayofficial/worldupgraderschemas",
+  "description": "JSON schemas for upgrading worlds",
+  "type": "library",
+  "license": "CC0-1.0",
+  "require": {}
+}
