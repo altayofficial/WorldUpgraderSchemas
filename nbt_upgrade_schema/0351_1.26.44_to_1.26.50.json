@@ -4,6 +4,20 @@
     "maxVersionPatch": 60,
     "maxVersionRevision": 33,
     "addedProperties": {
+        "minecraft:acacia_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:acacia_stairs": {
             "minecraft:corner": {
                 "string": "none"
@@ -12,6 +26,20 @@
         "minecraft:andesite_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:bamboo_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:bamboo_mosaic_stairs": {
@@ -24,9 +52,37 @@
                 "string": "none"
             }
         },
+        "minecraft:birch_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:birch_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:black_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:black_wool_stairs": {
@@ -39,6 +95,20 @@
                 "string": "none"
             }
         },
+        "minecraft:blue_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:blue_wool_stairs": {
             "minecraft:corner": {
                 "string": "none"
@@ -49,9 +119,37 @@
                 "string": "none"
             }
         },
+        "minecraft:brown_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:brown_wool_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:cherry_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:cherry_stairs": {
@@ -74,6 +172,34 @@
                 "string": "none"
             }
         },
+        "minecraft:copper_bars": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:crimson_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:crimson_stairs": {
             "minecraft:corner": {
                 "string": "none"
@@ -84,9 +210,37 @@
                 "string": "none"
             }
         },
+        "minecraft:cyan_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:cyan_wool_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:dark_oak_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:dark_oak_stairs": {
@@ -119,9 +273,37 @@
                 "string": "none"
             }
         },
+        "minecraft:exposed_copper_bars": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:exposed_cut_copper_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:granite_stairs": {
@@ -129,9 +311,37 @@
                 "string": "none"
             }
         },
+        "minecraft:gray_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:gray_wool_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:green_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:green_wool_stairs": {
@@ -139,9 +349,289 @@
                 "string": "none"
             }
         },
+        "minecraft:hard_black_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_blue_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_brown_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_cyan_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_gray_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_green_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_light_blue_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_light_gray_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_lime_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_magenta_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_orange_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_pink_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_purple_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_red_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_white_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:hard_yellow_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:iron_bars": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:jungle_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:jungle_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:light_blue_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:light_blue_wool_stairs": {
@@ -149,9 +639,37 @@
                 "string": "none"
             }
         },
+        "minecraft:light_gray_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:light_gray_wool_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:lime_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:lime_wool_stairs": {
@@ -159,9 +677,37 @@
                 "string": "none"
             }
         },
+        "minecraft:magenta_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:magenta_wool_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:mangrove_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:mangrove_stairs": {
@@ -184,6 +730,20 @@
                 "string": "none"
             }
         },
+        "minecraft:nether_brick_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:nether_brick_stairs": {
             "minecraft:corner": {
                 "string": "none"
@@ -194,9 +754,37 @@
                 "string": "none"
             }
         },
+        "minecraft:oak_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:oak_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:orange_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:orange_wool_stairs": {
@@ -204,14 +792,56 @@
                 "string": "none"
             }
         },
+        "minecraft:oxidized_copper_bars": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:oxidized_cut_copper_stairs": {
             "minecraft:corner": {
                 "string": "none"
             }
         },
+        "minecraft:pale_oak_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:pale_oak_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:pink_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:pink_wool_stairs": {
@@ -264,6 +894,20 @@
                 "string": "none"
             }
         },
+        "minecraft:poplar_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:poplar_stairs": {
             "minecraft:corner": {
                 "string": "none"
@@ -277,6 +921,20 @@
         "minecraft:prismarine_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:purple_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:purple_wool_stairs": {
@@ -302,6 +960,20 @@
         "minecraft:red_sandstone_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:red_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:red_wool_stairs": {
@@ -332,6 +1004,20 @@
         "minecraft:smooth_sandstone_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:spruce_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:spruce_stairs": {
@@ -383,9 +1069,37 @@
                 "string": "none"
             }
         },
+        "minecraft:warped_fence": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:warped_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:waxed_copper_bars": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:waxed_cut_copper_stairs": {
@@ -393,9 +1107,37 @@
                 "string": "none"
             }
         },
+        "minecraft:waxed_exposed_copper_bars": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:waxed_exposed_cut_copper_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:waxed_oxidized_copper_bars": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:waxed_oxidized_cut_copper_stairs": {
@@ -403,9 +1145,37 @@
                 "string": "none"
             }
         },
+        "minecraft:waxed_weathered_copper_bars": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:waxed_weathered_cut_copper_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:weathered_copper_bars": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:weathered_cut_copper_stairs": {
@@ -413,9 +1183,37 @@
                 "string": "none"
             }
         },
+        "minecraft:white_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
         "minecraft:white_wool_stairs": {
             "minecraft:corner": {
                 "string": "none"
+            }
+        },
+        "minecraft:yellow_stained_glass_pane": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
             }
         },
         "minecraft:yellow_wool_stairs": {
