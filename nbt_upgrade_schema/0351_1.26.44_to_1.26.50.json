@@ -1,0 +1,427 @@
+{
+    "maxVersionMajor": 1,
+    "maxVersionMinor": 21,
+    "maxVersionPatch": 60,
+    "maxVersionRevision": 33,
+    "addedProperties": {
+        "minecraft:acacia_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:andesite_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:bamboo_mosaic_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:bamboo_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:birch_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:black_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:blackstone_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:blue_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:brown_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:cherry_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:cinnabar_brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:cinnabar_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:cobbled_deepslate_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:crimson_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:cut_copper_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:cyan_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:dark_oak_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:dark_prismarine_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:deepslate_brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:deepslate_tile_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:diorite_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:end_brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:exposed_cut_copper_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:granite_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:gray_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:green_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:jungle_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:light_blue_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:light_gray_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:lime_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:magenta_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:mangrove_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:mossy_cobblestone_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:mossy_stone_brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:mud_brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:nether_brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:normal_stone_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:oak_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:orange_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:oxidized_cut_copper_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:pale_oak_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:pink_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:polished_andesite_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:polished_blackstone_brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:polished_blackstone_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:polished_cinnabar_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:polished_deepslate_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:polished_diorite_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:polished_granite_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:polished_sulfur_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:polished_tuff_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:poplar_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:prismarine_bricks_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:prismarine_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:purple_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:purpur_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:quartz_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:red_nether_brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:red_sandstone_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:red_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:resin_brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:sandstone_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:smooth_quartz_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:smooth_red_sandstone_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:smooth_sandstone_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:spruce_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:stone_brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:stone_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:sulfur_brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:sulfur_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:trip_wire": {
+            "minecraft:connection_east": {
+                "byte": 0
+            },
+            "minecraft:connection_north": {
+                "byte": 0
+            },
+            "minecraft:connection_south": {
+                "byte": 0
+            },
+            "minecraft:connection_west": {
+                "byte": 0
+            }
+        },
+        "minecraft:tuff_brick_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:tuff_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:warped_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:waxed_cut_copper_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:waxed_exposed_cut_copper_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:waxed_oxidized_cut_copper_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:waxed_weathered_cut_copper_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:weathered_cut_copper_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:white_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        },
+        "minecraft:yellow_wool_stairs": {
+            "minecraft:corner": {
+                "string": "none"
+            }
+        }
+    }
+}
